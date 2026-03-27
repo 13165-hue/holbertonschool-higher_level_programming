@@ -1,1 +1,1 @@
-Holberton School - Higher Level Programming
+Higher Level Programming - Python
